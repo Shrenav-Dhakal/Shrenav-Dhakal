@@ -1,4 +1,5 @@
-# 👋 Hi, I'm Shreenav Dhakal
+# 👋 Hi, I'm Shreenav Dhakal ![Profile Views](https://komarev.com/ghpvc/?username=shreenav&label=Profile%20Views&color=0e75b6&style=flat)
+
 
 🎯 **AI/ML Engineer** | 🧠 LLM & Multi-Agent Specialist | ⚙️ Full-stack AI Systems Builder  
 📍 Kathmandu, Nepal | 📧 dshrenav123456@gmail.com | [LinkedIn](https://www.linkedin.com/in/shreenav-dhakal999/)
