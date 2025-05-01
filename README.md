@@ -1,13 +1,9 @@
 <div align="center">
 
-<svg width="100%" height="120" xmlns="http://www.w3.org/2000/svg">
-  <rect width="100%" height="100%" fill="#0F172A"/>
-  <text x="20" y="30" font-family="monospace" font-size="14" fill="#38BDF8">
-    <tspan x="20" dy="0">💻 Shreenav Dhakal</tspan>
-    <tspan x="20" dy="20" fill="#F472B6">AI/ML Engineer · LLM Specialist · Agentic Systems Architect</tspan>
-    <tspan x="20" dy="20" fill="#34D399">Building intelligent, production-grade systems with purpose. 🤖</tspan>
-  </text>
-</svg>
+# 🚀 Shreenav Dhakal 
+
+**🧠 AI/ML Engineer** · **🤖 LLM Specialist** · **🛠️ Agentic Systems Architect**  
+*✨ Building intelligent, production-grade systems with purpose* ⚙️  
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&pause=1000&color=00FFD1&center=true&vCenter=true&width=850&lines=⚡+LLM+Engineer+%7C+Agentic+AI+Specialist;🤖+Bots+with+Brains%3A+Web%2C+WhatsApp%2C+SMS%2C+Email;🛡️+RAG%2C+Guardrails%2C+Red+Teaming;🚀+From+Fine-Tuning+to+Production)](https://git.io/typing-svg)
