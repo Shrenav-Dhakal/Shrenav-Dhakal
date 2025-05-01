@@ -1,8 +1,8 @@
 <div align="center">
 
-# 💻 Shreenav Dhakal  
-**AI/ML Engineer · LLM Specialist · Agentic Systems Architect**  
-*Building intelligent, production-grade systems with purpose.* 🤖
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=38BDF8&width=435&lines=💻+Shreenav+Dhakal;AI%2FML+Engineer+·+LLM+Specialist+·+Agentic;Building+intelligent+systems+with+purpose.🤖&center=true&repeat=infinite" alt="Typing SVG" />
+</p>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&pause=1000&color=00FFD1&center=true&vCenter=true&width=850&lines=⚡+LLM+Engineer+%7C+Agentic+AI+Specialist;🤖+Bots+with+Brains%3A+Web%2C+WhatsApp%2C+SMS%2C+Email;🛡️+RAG%2C+Guardrails%2C+Red+Teaming;🚀+From+Fine-Tuning+to+Production)](https://git.io/typing-svg)
 
