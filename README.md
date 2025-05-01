@@ -99,9 +99,9 @@
 </div>
 
 <div align="center">
-[![GitHub Streak](https://streak-stats.demolab.com?user=shrenav-dhakal&theme=dark&hide_border=true&border_radius=6&mode=weekly)](https://git.io/streak-stats)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shrenav-dhakal&theme=dark&hide_border=true&border_radius=6&mode=weekly)](https://git.io/streak-stats)
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shrenav-dhakal&theme=dark&hide_border=true&border_radius=6&mode=weekly)](https://git.io/streak-stats)
+  &nbsp;
+  [![Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=shrenav-dhakal&layout=compact&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 ---
