@@ -97,6 +97,6 @@
 > *"Let's engineer intelligence that delivers real-world impact."*
 
 </div>
-[![GitHub Streak](https://streak-stats.demolab.com?user=yourusername&theme=dark&hide_border=true&border_radius=6&mode=weekly)](https://git.io/streak-stats)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Shrenav-Dhakal&theme=dark&hide_border=true&border_radius=6&mode=weekly)](https://git.io/streak-stats)  
+[![Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=Shrenav-Dhakal&layout=compact&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 ---
