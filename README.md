@@ -99,5 +99,5 @@
 ---
 
 <div align="center">
-  <img src="https://github.com/Shreenav-Dhakal/Shreenav-Dhakal/assets/90232896/0b4e5c0f-8d18-4a09-90a3-9a3c6f46e9c3" width="600" alt="Banner">
+  <img src="https://i.imgur.com/0xWso2y.png" width="850" alt="AI Footer Banner">
 </div>
