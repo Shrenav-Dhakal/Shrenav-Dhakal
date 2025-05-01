@@ -1,17 +1,16 @@
 <div align="center">
 
 # 💻 Shreenav Dhakal  
-**AI/ML Engineer | LLM Specialist**  
-*Building production-ready intelligent systems* 🤖
+**AI/ML Engineer · LLM Specialist · Agentic Systems Architect**  
+*Building intelligent, production-grade systems with purpose.* 🤖
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FFD1&center=true&vCenter=true&width=900&lines=🚀+AI+Engineer+Specializing+in+LLMs+%26+NLP;🤖+Built+Chatbots+for+Banking%2C+eCommerce+%26+Law;🔐+Guardrails+%7C+Red-Teaming+%7C+Prompt+Defense;🧠+Fine-tuned+Llama+3+%26+Mistral+for+Q%26A;⚙️+RAG+Pipelines+%7C+Pinecone+%7C+Weaviate+%7C+Milvus;📡+Omnichannel+Bots+%7C+Web%2C+WhatsApp%2C+Email;🌍+Let's+Code+the+Future+of+AI)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&pause=1000&color=00FFD1&center=true&vCenter=true&width=850&lines=⚡+LLM+Engineer+%7C+Agentic+AI+Specialist;🤖+Bots+with+Brains%3A+Web%2C+WhatsApp%2C+SMS%2C+Email;🛡️+RAG%2C+Guardrails%2C+Red+Teaming;🚀+From+Fine-Tuning+to+Production)](https://git.io/typing-svg)
 
-
-<img src="https://raw.githubusercontent.com/Shreyam-789/Shreyam-789/main/AI.gif" width="300" align="center">
+<img src="https://raw.githubusercontent.com/Shreyam-789/Shreyam-789/main/AI.gif" width="300" alt="AI Animation">
 
 [![LinkedIn](https://img.shields.io/badge/Connect-%230077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shreenav-dhakal999/)
-[![Email](https://img.shields.io/badge/Contact-%23D14836?style=for-the-badge&logo=gmail)](mailto:dshrenav123456@gmail.com)
-[![GitHub](https://img.shields.io/badge/Repositories-%23181717?style=for-the-badge&logo=github)](https://github.com/shreenav-dhakal)
+[![Email](https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail)](mailto:dshrenav123456@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github)](https://github.com/shreenav-dhakal)
 
 </div>
 
@@ -19,33 +18,37 @@
 
 ## 🧠 Core Competencies
 
-### **AI/ML Development**
+### ⚙️ AI/ML Expertise
+
 <div align="center">
   
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-00ADD8?style=for-the-badge&logo=langchain&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
+![LangChain](https://img.shields.io/badge/LangChain-00ADD8?style=for-the-badge&logo=langchain)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black)
 ![Transformers](https://img.shields.io/badge/Transformers-FFD21F?style=for-the-badge&logo=transformers&logoColor=black)
 
 </div>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,ai,docker,fastapi,mongodb,aws,gcp" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,docker,fastapi,mongodb,aws,gcp" />
 </div>
 
-- **LLM Operations**: RAG implementation, fine-tuning, agentic workflows
-- **Natural Language Processing**: Text generation, semantic search, NER
-- **Model Optimization**: Quantization, pruning, distillation techniques
-- **Multi-Agent Systems**: LangGraph, Autogen, CrewAI integration
+- **LLM Operations**: Fine-tuning, RAG pipelines, embedding strategies  
+- **Multi-Agent Systems**: Agentic workflows (LangGraph, Autogen, CrewAI)  
+- **NLP**: Semantic search, conversational AI, NER, prompt engineering  
+- **AI Safety**: Guardrails, red-teaming, adversarial prompt testing
 
-### **Production Stack**
+---
+
+### 🛠️ Production & DevOps Stack
+
 <div align="center">
   
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
 
 </div>
 
@@ -53,47 +56,48 @@
   <img src="https://skillicons.dev/icons?i=kubernetes,redis,postgres,nginx,grafana,prometheus" />
 </div>
 
-- **MLOps**: End-to-end pipeline orchestration
-- **API Development**: Scalable model serving
-- **Vector Databases**: Pinecone, Weaviate, Milvus
-- **Monitoring**: Performance tracking & optimization
+- **MLOps**: Automated workflows with Apache Airflow  
+- **Vector DBs**: Pinecone, Weaviate, Milvus  
+- **Omnichannel Bots**: Web, WhatsApp, SMS, Email, IG, Facebook  
+- **Monitoring**: Real-time metrics and performance logging
 
 ---
 
-## 💡 Professional Journey
+## 🚀 Career Snapshot
 
-### **AI/ML Engineer** @ Palmmind Technology  
-**March 2022 - Present | Pulchowk, Lalitpur**
+### **AI/ML Engineer** · *Palmmind Technology*  
+🗓️ *Mar 2022 – Present · Lalitpur, Nepal*
 
-- Architecting LLM-powered solutions for enterprise applications
-- Developing multi-agent systems for complex workflow automation
-- Implementing RAG pipelines for knowledge-intensive applications
-- Optimizing model deployment for production environments
+- Developed domain-specific LLMs and deployed 5+ production chatbots  
+- Architected agentic AI systems for lead engagement & booking  
+- Implemented centralized multi-location messaging using Twilio stack  
+- Built red-teaming pipelines using NVIDIA Garak to enhance model safety
 
 ---
 
 ## 📜 Certifications
 
-| **Certification** | **Provider** | **Year** |
-|--------------------|--------------|----------|
-| IBM Data Science Professional Certificate | Coursera | 2020 |
-| Advanced Python Programming | Udemy | 2020 |
+| Certification                              | Provider   | Year |
+|-------------------------------------------|------------|------|
+| IBM Data Science Professional Certificate | Coursera   | 2020 |
+| Advanced Python Programming               | Udemy      | 2020 |
+
+---
+
+## 🌱 Beyond Code
+
+<div align="center">
+
+- 🔗 Passionate about decentralized systems & blockchain  
+- 📦 Contributor to open-source AI tooling  
+- 📚 Lifelong learner & researcher of applied intelligence  
+
+> *"Let's engineer intelligence that delivers real-world impact."*
+
+</div>
 
 ---
 
 <div align="center">
-
-## 🌱 Beyond Code
-
-- Blockchain technology enthusiast 🔗
-- Open source contributor 📦
-- Continuous learner of emerging AI trends 🧠
-
-</div>
-
-> *"Let's engineer intelligence that delivers real-world impact"*  
-> 📫 **Reach out:** [dshrenav123456@gmail.com](mailto:dshrenav123456@gmail.com)
-
-<div align="center">
-  <img src="https://github.com/Shreenav-Dhakal/Shreenav-Dhakal/assets/90232896/0b4e5c0f-8d18-4a09-90a3-9a3c6f46e9c3" width="600">
+  <img src="https://github.com/Shreenav-Dhakal/Shreenav-Dhakal/assets/90232896/0b4e5c0f-8d18-4a09-90a3-9a3c6f46e9c3" width="600" alt="Banner">
 </div>
