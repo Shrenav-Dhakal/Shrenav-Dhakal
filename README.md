@@ -4,7 +4,8 @@
 **AI/ML Engineer | LLM Specialist**  
 *Building production-ready intelligent systems* 🤖
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=4000&pause=1000&color=38BCF7&center=true&vCenter=true&width=800&lines=Welcome+to+my+AI+Engineering+Hub!;Transforming+code+into+cognitive+solutions...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FFD1&center=true&vCenter=true&width=900&lines=🚀+AI+Engineer+Specializing+in+LLMs+%26+NLP;🤖+Built+Chatbots+for+Banking%2C+eCommerce+%26+Law;🔐+Guardrails+%7C+Red-Teaming+%7C+Prompt+Defense;🧠+Fine-tuned+Llama+3+%26+Mistral+for+Q%26A;⚙️+RAG+Pipelines+%7C+Pinecone+%7C+Weaviate+%7C+Milvus;📡+Omnichannel+Bots+%7C+Web%2C+WhatsApp%2C+Email;🌍+Let's+Code+the+Future+of+AI)](https://git.io/typing-svg)
+
 
 <img src="https://raw.githubusercontent.com/Shreyam-789/Shreyam-789/main/AI.gif" width="300" align="center">
 
