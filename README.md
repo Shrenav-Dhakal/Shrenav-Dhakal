@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🚀 Shreenav Dhakal 
-
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=shrenav-dhakal&label=Profile%20views&color=0e75b6&style=flat" alt="Shreenav Dhakal" /> </p>
 **🧠 AI/ML Engineer** · **🤖 LLM Specialist** · **🛠️ Agentic Systems Architect**  
 *✨ Building intelligent, production-grade systems with purpose* ⚙️  
 
@@ -90,8 +90,6 @@
 <div align="center">
 
 <p>&nbsp;<img align="center" src="https://streak-stats.demolab.com/?user=shrenav-dhakal&theme=dark&hide_border=true&border_radius=6&mode=weekly" alt="Shrenav Dhakal" /></p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shrenav-dhakal&label=Profile%20views&color=0e75b6&style=flat" alt="Shreenav Dhakal" /> </p>
 </div>
 
 ---
