@@ -86,17 +86,6 @@
 
 ---
 
-## 🌱 Beyond Code
-
-<div align="center">
-
-- 🔗 Passionate about decentralized systems & blockchain  
-- 📦 Contributor to open-source AI tooling  
-- 📚 Lifelong learner & researcher of applied intelligence  
-
-> *"Let's engineer intelligence that delivers real-world impact."*
-
-</div>
 
 <div align="center">
 
