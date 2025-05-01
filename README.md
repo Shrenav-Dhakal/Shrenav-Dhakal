@@ -97,7 +97,3 @@
 </div>
 
 ---
-
-<div align="center">
-  <img src="https://i.imgur.com/0xWso2y.png" width="850" alt="AI Footer Banner">
-</div>
