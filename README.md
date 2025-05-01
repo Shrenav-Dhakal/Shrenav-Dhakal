@@ -1,11 +1,10 @@
 <div align="center">
 
 # 🚀 Shreenav Dhakal 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=shrenav-dhakal&label=Profile%20views&color=0e75b6&style=flat" alt="Shreenav Dhakal" /> </p>
 **🧠 AI/ML Engineer** · **🤖 LLM Specialist** · **🛠️ Agentic Systems Architect**  
 *✨ Building intelligent, production-grade systems with purpose* ⚙️  
 
-
+<p> <img src="https://komarev.com/ghpvc/?username=shrenav-dhakal&label=Profile%20views&color=0e75b6&style=flat" alt="Shreenav Dhakal" /> </p>
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&pause=1000&color=00FFD1&center=true&vCenter=true&width=850&lines=⚡+LLM+Engineer+%7C+Agentic+AI+Specialist;🤖+Bots+with+Brains%3A+Web%2C+WhatsApp%2C+SMS%2C+Email;🛡️+RAG%2C+Guardrails%2C+Red+Teaming;🚀+From+Fine-Tuning+to+Production)](https://git.io/typing-svg)
 
 <img src="https://raw.githubusercontent.com/Shreyam-789/Shreyam-789/main/AI.gif" width="300" alt="AI Animation">
